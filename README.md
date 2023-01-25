@@ -1,6 +1,3 @@
-This repo is now deprecated. In the time since it created TypeScript support is now a default feature of Create React App, Next.JS and Razzle.
-
-This means you can get started with:
 
 # Creates an app called my-app
 npx create-react-app my-app --typescript
