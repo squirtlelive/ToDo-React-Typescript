@@ -1,5 +1,5 @@
 
-# Creates an app called my-app
+# Creates an App called my-app
 npx create-react-app my-app --typescript
 
 cd my-app
